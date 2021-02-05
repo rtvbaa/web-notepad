@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/web-notepad/static/css/main.2d13fed8.chunk.css",
-    "main.js": "/web-notepad/static/js/main.23b450fe.chunk.js",
-    "main.js.map": "/web-notepad/static/js/main.23b450fe.chunk.js.map",
+    "main.js": "/web-notepad/static/js/main.6e3b5005.chunk.js",
+    "main.js.map": "/web-notepad/static/js/main.6e3b5005.chunk.js.map",
     "runtime-main.js": "/web-notepad/static/js/runtime-main.bc717f26.js",
     "runtime-main.js.map": "/web-notepad/static/js/runtime-main.bc717f26.js.map",
-    "static/js/2.88c2cd04.chunk.js": "/web-notepad/static/js/2.88c2cd04.chunk.js",
-    "static/js/2.88c2cd04.chunk.js.map": "/web-notepad/static/js/2.88c2cd04.chunk.js.map",
+    "static/js/2.385a4e0a.chunk.js": "/web-notepad/static/js/2.385a4e0a.chunk.js",
+    "static/js/2.385a4e0a.chunk.js.map": "/web-notepad/static/js/2.385a4e0a.chunk.js.map",
     "static/js/3.2e65a30e.chunk.js": "/web-notepad/static/js/3.2e65a30e.chunk.js",
     "static/js/3.2e65a30e.chunk.js.map": "/web-notepad/static/js/3.2e65a30e.chunk.js.map",
     "index.html": "/web-notepad/index.html",
     "static/css/main.2d13fed8.chunk.css.map": "/web-notepad/static/css/main.2d13fed8.chunk.css.map",
-    "static/js/2.88c2cd04.chunk.js.LICENSE.txt": "/web-notepad/static/js/2.88c2cd04.chunk.js.LICENSE.txt"
+    "static/js/2.385a4e0a.chunk.js.LICENSE.txt": "/web-notepad/static/js/2.385a4e0a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/web-notepad/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bc717f26.js",
-    "static/js/2.88c2cd04.chunk.js",
+    "static/js/2.385a4e0a.chunk.js",
     "static/css/main.2d13fed8.chunk.css",
-    "static/js/main.23b450fe.chunk.js"
+    "static/js/main.6e3b5005.chunk.js"
   ]
 }
