@@ -2,6 +2,7 @@
 
 #IDEA
 .idea
+.eslintcache
 
 # dependencies
 /node_modules
